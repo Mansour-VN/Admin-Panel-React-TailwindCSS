@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Admin-Panel-React-TailwindCSS/static/css/main.3c6d969a.css",
+    "main.js": "/Admin-Panel-React-TailwindCSS/static/js/main.c366b124.js",
+    "static/media/product4.jpg": "/Admin-Panel-React-TailwindCSS/static/media/product4.767417bea17688d6d8ce.jpg",
+    "static/media/product2.jpg": "/Admin-Panel-React-TailwindCSS/static/media/product2.e93f12ec1b20980a1bd1.jpg",
+    "static/media/product1.jpg": "/Admin-Panel-React-TailwindCSS/static/media/product1.b8efc7a24c281ed8911b.jpg",
+    "static/media/product3.jpg": "/Admin-Panel-React-TailwindCSS/static/media/product3.be6bce80c539b3222473.jpg",
+    "static/media/avatar3.png": "/Admin-Panel-React-TailwindCSS/static/media/avatar3.013c6cf3e081328c4626.png",
+    "static/media/support.png": "/Admin-Panel-React-TailwindCSS/static/media/support.d4766b6ecb9210cf700c.png",
+    "static/media/product8.jpg": "/Admin-Panel-React-TailwindCSS/static/media/product8.323ebcbe88240bd8423f.jpg",
+    "static/media/avatar2.jpg": "/Admin-Panel-React-TailwindCSS/static/media/avatar2.40d668f58c650e364281.jpg",
+    "static/media/product7.jpg": "/Admin-Panel-React-TailwindCSS/static/media/product7.69341801e3f5245c8020.jpg",
+    "static/media/product6.jpg": "/Admin-Panel-React-TailwindCSS/static/media/product6.3260a3b510aa12fc136b.jpg",
+    "static/media/avatar4.jpg": "/Admin-Panel-React-TailwindCSS/static/media/avatar4.f56b774f77caaf2f6921.jpg",
+    "static/media/product5.jpg": "/Admin-Panel-React-TailwindCSS/static/media/product5.f4c5d8f991b753ca0fcc.jpg",
+    "index.html": "/Admin-Panel-React-TailwindCSS/index.html",
+    "main.3c6d969a.css.map": "/Admin-Panel-React-TailwindCSS/static/css/main.3c6d969a.css.map",
+    "main.c366b124.js.map": "/Admin-Panel-React-TailwindCSS/static/js/main.c366b124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c6d969a.css",
+    "static/js/main.c366b124.js"
+  ]
+}
