@@ -16,7 +16,7 @@ class SparkLine extends React.PureComponent {
         border={{ color: currentColor, width: 2 }}
         tooltipSettings={{
           visible: true,
-          format: '${x} : data ${y}', // ✅ FIXED (yval → y)
+          format: `\${x} : data \${y}`,
           trackLineSettings: {
             visible: false,
           },
